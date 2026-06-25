@@ -11,19 +11,19 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 - **2nd Place Winner** at the global Casper Hackathon 2026 Finals (Organized by DoraHacks).
 
 ### 🛠️ Technical Stack
-- **Languages:** Python, Java, C++, SQL, Bash
-- **Frameworks & Tools:** FastAPI, Flask, Plotly, PySide6, YOLO, PyTorch, Docker, Redis
-- **Databases:** PostgreSQL, MongoDB
-- **OS:** Linux
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📁 Featured Projects
 * **[Wildfire Surveillance & Detection System](https://github.com/furkanahmetk/Wildfire_Surveilace_System)**: An AI-powered, real-time monitoring system utilizing YOLOv4/YOLOv5 models to detect forest fires and smoke, featuring automated low-latency Telegram alerts via Flask.
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanahmetk&show_icons=true&theme=radial&hide_border=true" alt="Furkan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanahmetk&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
 
 ---
 

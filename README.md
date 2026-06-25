@@ -9,6 +9,7 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 
 ### 🏆 Milestones
 - **2nd Place Winner** at the global Casper Hackathon 2026 Finals (Organized by DoraHacks).
+- **Verified Credentials:** You can view my professional certifications and achievements in my **[MyCertificates Repository](https://github.com/furkanahmetk/MyCertificates)**.
 
 ### 🛠️ Technical Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,8 +23,15 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+* **Domains:** `Artificial Intelligence (AI) & Deep Learning` | `Blockchain Infrastructure & Web3 Development`
+
 ### 📁 Featured Projects
-* **[Wildfire Surveillance & Detection System](https://github.com/furkanahmetk/Wildfire_Surveilace_System)**: An AI-powered, real-time monitoring system utilizing YOLOv4/YOLOv5 models to detect forest fires and smoke, featuring automated low-latency Telegram alerts via Flask.
+
+* **[Shroud Protocol](https://github.com/furkanahmetk/shroud-protocol)**: A specialized cryptographic/privacy-focused protocol implementation designed for secure blockchain ecosystems and decentralized networks.
+* **[Wildfire Surveillance & Detection System](https://github.com/furkanahmetk/Wildfire_Surveilace_System)**: An AI-powered, real-time monitoring system utilizing YOLO architectures to detect forest fires and smoke, featuring automated low-latency Telegram alerts via Flask.
+* **Casper Network Telemetry & Alerting Suite**: A dual-system infrastructure built for the Casper blockchain ecosystem:
+  * **[Casper Bot Optimized API](https://github.com/furkanahmetk/Casper-Bot-Optimized-API)**: A high-performance, optimized backend API built with FastAPI to parse blockchain validator metrics and network telemetry data.
+  * **[Telegram Validator Bot](https://github.com/furkanahmetk/telegram-validator-bot)**: A production-ready Telegram bot that interfaces with the telemetry API to deliver real-time node performance, uptime, and validation status updates directly to node operators.
 
 ---
 

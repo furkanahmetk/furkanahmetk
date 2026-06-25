@@ -35,8 +35,9 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanahmetk&theme=radial&hide_border=true" alt="Furkan's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanahmetk&show_icons=true&theme=radial&hide_border=true" alt="Furkan's GitHub Stats" height="150" />
 </p>
+
 ---
 
 ### 🤝 Connect with me

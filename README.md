@@ -25,6 +25,9 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 
 * **Domains:** `Artificial Intelligence (AI) & Deep Learning` | `Blockchain Infrastructure & Web3 Development`
 
+### 🌐 Open Source Contributions
+* **[LibreOffice (The Document Foundation)](https://www.libreoffice.org/)**: Actively contributing to the global open-source office suite. You can track my submitted patches, code reviews, and developer activity directly via my **[LibreOffice Gerrit Profile](https://gerrit.libreoffice.org/q/furkanahmetk)**.
+
 ### 📁 Featured Projects
 
 * **[Shroud Protocol](https://github.com/furkanahmetk/shroud-protocol)**: A specialized cryptographic/privacy-focused protocol implementation designed for secure blockchain ecosystems and decentralized networks.

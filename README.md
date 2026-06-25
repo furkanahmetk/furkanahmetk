@@ -42,4 +42,3 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 
 ### 🤝 Connect with me
 - **LinkedIn:** [linkedin.com/in/furkan-ahmet-kara-0282b8135](https://www.linkedin.com/in/furkan-ahmet-kara-0282b8135/)
-- **Email:** furkanahmetkara.fk [at] gmail.com

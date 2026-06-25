@@ -33,6 +33,10 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
   * **[Casper Bot Optimized API](https://github.com/furkanahmetk/Casper-Bot-Optimized-API)**: A high-performance, optimized backend API built with FastAPI to parse blockchain validator metrics and network telemetry data.
   * **[Telegram Validator Bot](https://github.com/furkanahmetk/telegram-validator-bot)**: A production-ready Telegram bot that interfaces with the telemetry API to deliver real-time node performance, uptime, and validation status updates directly to node operators.
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanahmetk&theme=radial&hide_border=true" alt="Furkan's GitHub Streak" height="150" />
+</p>
 ---
 
 ### 🤝 Connect with me

@@ -37,7 +37,6 @@ A Software Developer focused on Python engineering, Artificial Intelligence (AI)
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanahmetk&show_icons=true&theme=radial&hide_border=true&count_private=true&include_all_commits=true" alt="Furkan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkanahmetk&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
